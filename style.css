@@ -1,13 +1,12 @@
 
 
-.notrecom img {
-	text-align: center;
-	padding-left: 25px;
-	padding-right: 25px;
-	padding-top: 25px;
-	margin: auto;
+img {
+	
+	padding: 25px 25px 25px 25px;
+		
 }
+
+
 .center {
 	text-align: center;
 }
-
