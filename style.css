@@ -1,6 +1,14 @@
-.ui inverted vertical footer segment {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
+
+
+
+.notrecom img {
+	text-align: center;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 25px;
+	margin: auto;
 }
+.center {
+	text-align: center;
+}
+
