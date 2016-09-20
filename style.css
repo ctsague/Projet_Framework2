@@ -1,0 +1,10 @@
+div{
+	text-align: center;
+}
+div img{
+	text-align: center;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 25px;
+	margin: auto;
+}
